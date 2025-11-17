@@ -1,0 +1,7 @@
+C:\Users\5m\Desktop\GoKartEgzamin\GoKartEgzamin\obj\Debug\GoKartEgzamin.csproj.AssemblyReference.cache
+C:\Users\5m\Desktop\GoKartEgzamin\GoKartEgzamin\obj\Debug\GoKartEgzamin.csproj.CoreCompileInputs.cache
+C:\Users\5m\Desktop\GoKartEgzamin\GoKartEgzamin\bin\Debug\GoKartEgzamin.exe.config
+C:\Users\5m\Desktop\GoKartEgzamin\GoKartEgzamin\bin\Debug\GoKartEgzamin.exe
+C:\Users\5m\Desktop\GoKartEgzamin\GoKartEgzamin\bin\Debug\GoKartEgzamin.pdb
+C:\Users\5m\Desktop\GoKartEgzamin\GoKartEgzamin\obj\Debug\GoKartEgzamin.exe
+C:\Users\5m\Desktop\GoKartEgzamin\GoKartEgzamin\obj\Debug\GoKartEgzamin.pdb

@@ -6,6 +6,23 @@ using System.Threading.Tasks;
 
 namespace GoKartEgzamin
 {
+        /* 
+ klasa: Program
+
+ opis:  Klasa główna aplikacji obliczająca NWD dla serii czasów podanych w sekundach.
+        Realizuje funkcję pobierania danych od użytkownika oraz obliczenia matematyczne.
+
+ pola:  brak
+
+ metody: 
+        Nwd(int a, int b) - zwraca liczbę całkowitą (int), oblicza NWD dwóch liczb algorytmem Euklidesa.
+        Czas() - zwraca liczbę całkowitą (int), pobiera od użytkownika wartość czasu w sekundach.
+        Main(string[] args) - metoda główna, steruje przebiegiem programu.
+
+ autor: Miłosz Todys
+ */
+
+    
     internal class Program
     {
 
